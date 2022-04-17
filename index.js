@@ -68,7 +68,7 @@ const questions = [
 		validate(value) {
 			const pass = value.match(/.+@+.+\.+.+/);
 			if (pass) return true;
-			return 'Please enter a valid email';
+			return 'Please enter a valid email (must contain @ and .)';
 		},
 	},
 ];
