@@ -16,6 +16,7 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | install [Node.js](https://nodejs.org/en/download/)                             | —                                                                     |
 | clone from [GitHub](https://github.com/leoelicos/bcs-09-good-readme-generator) | `git clone https://github.com/leoelicos/bcs-09-good-readme-generator` |
+| go inside the folder                                                           | `cd bcs-09-good-readme-generator`                                     |
 | install [inquirer](https://www.npmjs.com/package/inquirer)                     | `npm i inquirer`                                                      |
 | install [chalk](https://www.npmjs.com/package/chalk)                           | `npm i chalk`                                                         |
 
@@ -27,7 +28,7 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 | answer the prompts e.g. _What's the title?_ | `{title}`                                                    |
 | use arrow keys to choose a license          | <kbd>↑</kbd> <kbd>↓</kbd>                                    |
 | _cancel without creating readme_            | <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>⌘</kbd> + <kbd>C</kbd> |
-| open /generated/                            | `cd generated`                                               |
+| open /generated/ to see the file            | `cd generated/`                                              |
 
 ## Credits
 
