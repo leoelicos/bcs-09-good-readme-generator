@@ -19,9 +19,7 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 | go inside the folder                                                                                        | `cd bcs-09-good-readme-generator`                                     |
 | install [inquirer](https://www.npmjs.com/package/inquirer) and [chalk](https://www.npmjs.com/package/chalk) | `npm i inquirer chalk`                                                |
 
-### GIF of Installation:
-
--  [gifinstall](#gifinstall)
+_GIF of Installation:_ [gifinstall](#gifinstall)
 
 ## Usage
 
@@ -33,17 +31,11 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 | _cancel without creating readme_            | <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>⌘</kbd> + <kbd>C</kbd> |
 | open /generated/ to see the file            | `cd generated/`                                              |
 
-### Demo Video:
+_Video Demo:_ [Demo On YouTube](https://www.youtube.com/watch?v=f1jgYJMuaGs)
 
-[Demo On YouTube](https://www.youtube.com/watch?v=f1jgYJMuaGs)
+_GIF of Usage:_ [gifrun](#gifrun)
 
-### GIF of Run:
-
--  [gifrun](#gifrun)
-
-### GIF of Document:
-
--  [gifdocument](#gifdocument)
+_GIF of Document:_ [gifdocument](#gifdocument)
 
 ## Credits
 
@@ -65,16 +57,22 @@ Licensed under the [MIT License](./LICENSE).
 
 ### gifInstall
 
+_Quick demo of the installation CLI:_
+
 ![install](./Assets/install.gif)
 
 ---
 
 ### gifRun
 
+_Quick demo of the usage CLI:_
+
 ![run](./Assets/run.gif)
 
 ---
 
 ### gifDocument
+
+_Quick demo of the rendered product:_
 
 ![document](./Assets/document.gif)
