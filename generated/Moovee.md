@@ -1,5 +1,5 @@
 # Moovee
-  ![GNU GPLv3](https://img.shields.io/badge/GNU%20GPLv3-0?label=license&labelColor=white&color=black) 
+  ![MIT License](https://img.shields.io/badge/MIT%20License-0?label=license&labelColor=white&color=black) 
   
 ## Description
 
@@ -24,11 +24,11 @@ Click on the search bar, type a movie name, press Enter. Then, scroll down until
   
 ## License
   
-Licensed under the [GNU GPLv3](../LICENSE).
+Licensed under the [MIT License](../LICENSE).
 
 ## Contributing
 
-undefined
+Fork the repo and make a branch with the following template: {your_github_username}.{feature_name}, then make a pull request at github.com/umairkhalid/movie-planner/ with asmuch detail as you can about the changes you've made to the branch.
 
 ## Tests
 
