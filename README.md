@@ -12,13 +12,16 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 
 ## Installation
 
-| Step                                                                           | Command Line                                                          |
-| ------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| install [Node.js](https://nodejs.org/en/download/)                             | —                                                                     |
-| clone from [GitHub](https://github.com/leoelicos/bcs-09-good-readme-generator) | `git clone https://github.com/leoelicos/bcs-09-good-readme-generator` |
-| go inside the folder                                                           | `cd bcs-09-good-readme-generator`                                     |
-| install [inquirer](https://www.npmjs.com/package/inquirer)                     | `npm i inquirer`                                                      |
-| install [chalk](https://www.npmjs.com/package/chalk)                           | `npm i chalk`                                                         |
+| Step                                                                                                        | Command Line                                                          |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| install [Node.js](https://nodejs.org/en/download/)                                                          | —                                                                     |
+| clone from [GitHub](https://github.com/leoelicos/bcs-09-good-readme-generator)                              | `git clone https://github.com/leoelicos/bcs-09-good-readme-generator` |
+| go inside the folder                                                                                        | `cd bcs-09-good-readme-generator`                                     |
+| install [inquirer](https://www.npmjs.com/package/inquirer) and [chalk](https://www.npmjs.com/package/chalk) | `npm i inquirer chalk`                                                |
+
+### GIF of Installation:
+
+-  [gifinstall](#gifinstall)
 
 ## Usage
 
@@ -29,6 +32,18 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 | use arrow keys to choose a license          | <kbd>↑</kbd> <kbd>↓</kbd>                                    |
 | _cancel without creating readme_            | <kbd>Ctrl</kbd> + <kbd>C</kbd> / <kbd>⌘</kbd> + <kbd>C</kbd> |
 | open /generated/ to see the file            | `cd generated/`                                              |
+
+### Demo Video:
+
+[Demo On YouTube](https://www.youtube.com/watch?v=f1jgYJMuaGs)
+
+### GIF of Run:
+
+-  [gifrun](#gifrun)
+
+### GIF of Document:
+
+-  [gifdocument](#gifdocument)
 
 ## Credits
 
@@ -45,3 +60,21 @@ While making this app, I learned about the usefulness of node and npm to unlock 
 &copy; Leo Wong <leoelicos@gmail.com>
 
 Licensed under the [MIT License](./LICENSE).
+
+## GIF Demos
+
+### gifInstall
+
+![install](./Assets/install.gif)
+
+---
+
+### gifRun
+
+![run](./Assets/run.gif)
+
+---
+
+### gifDocument
+
+![document](./Assets/document.gif)
