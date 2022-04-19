@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 const fs = require('fs');
 function renderLicenseLink(license) {
-	var licenseLink = '../LICENSE';
+	var licenseLink = './LICENSE';
 	fs.readFile(licenseLink, 'utf8', (err) => {
 		if (err) licenseLink = '';
 	});
