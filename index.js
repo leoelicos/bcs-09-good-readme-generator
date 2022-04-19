@@ -83,7 +83,7 @@ function writeToFile(fileName, data) {
 // function to initialize app
 function init() {
 	console.log(greeting);
-	inquirer.prompt(questions).then((data) => writeToFile(data.title, data));
+	inquirer.prompt(questions).then((data) => writeToFile('README', data));
 }
 
 // Function call to initialize app
