@@ -24,7 +24,7 @@ Click on the search bar, type a movie name, press Enter. Then, scroll down until
   
 ## License
   
-Licensed under the [MIT License](../LICENSE).
+Licensed under the [MIT License](./LICENSE).
 
 ## Contributing
 
