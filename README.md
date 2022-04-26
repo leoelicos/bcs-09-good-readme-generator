@@ -1,6 +1,6 @@
 # Good README Generator
 
-![NodeJS](https://img.shields.io/badge/16.14.2-0?label=node.js&labelColor=white&color=black) ![Javascript](https://img.shields.io/badge/ES6-0?label=javascript&labelColor=white&color=black) ![npm](https://img.shields.io/badge/8.x-0?label=npm&labelColor=white&color=black) ![npm](https://img.shields.io/badge/8.2.2-0?label=inquirer&labelColor=white&color=black)
+![NodeJS](https://img.shields.io/badge/16.14.2-0?label=node.js&labelColor=white&color=black) ![Javascript](https://img.shields.io/badge/ES6-0?label=javascript&labelColor=white&color=black) ![npm](https://img.shields.io/badge/8.x-0?label=npm&labelColor=white&color=black) ![npm](https://img.shields.io/badge/8.2.2-0?label=inquirer&labelColor=white&color=black) ![chalk](https://img.shields.io/badge/4.1.2-0?label=chalk&labelColor=white&color=black)
 
 ## Introduction
 
